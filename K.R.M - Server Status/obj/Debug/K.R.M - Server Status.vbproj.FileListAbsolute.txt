@@ -1,0 +1,41 @@
+c:\users\pointer\documents\visual studio 2012\Projects\K.R.M - Server Status\K.R.M - Server Status\bin\Debug\K.R.M - Server Status.exe
+c:\users\pointer\documents\visual studio 2012\Projects\K.R.M - Server Status\K.R.M - Server Status\bin\Debug\K.R.M - Server Status.pdb
+c:\users\pointer\documents\visual studio 2012\Projects\K.R.M - Server Status\K.R.M - Server Status\bin\Debug\K.R.M - Server Status.xml
+c:\users\pointer\documents\visual studio 2012\Projects\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M___Server_Status.Form1.resources
+c:\users\pointer\documents\visual studio 2012\Projects\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M___Server_Status.Resources.resources
+c:\users\pointer\documents\visual studio 2012\Projects\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M - Server Status.vbproj.GenerateResource.Cache
+c:\users\pointer\documents\visual studio 2012\Projects\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M - Server Status.exe
+c:\users\pointer\documents\visual studio 2012\Projects\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M - Server Status.xml
+c:\users\pointer\documents\visual studio 2012\Projects\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M - Server Status.pdb
+c:\users\pointer\documents\visual studio 2012\Projects\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M___Server_Status.Form2.resources
+C:\Users\Pointer\Documents\Visual Studio 2012\Projects\ORJ Projeler\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M - Server Status.exe
+C:\Users\Pointer\Documents\Visual Studio 2012\Projects\ORJ Projeler\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M - Server Status.xml
+C:\Users\Pointer\Documents\Visual Studio 2012\Projects\ORJ Projeler\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M - Server Status.pdb
+C:\Users\Pointer\Documents\Visual Studio 2012\Projects\ORJ Projeler\K.R.M - Server Status\K.R.M - Server Status\bin\Debug\K.R.M - Server Status.exe
+C:\Users\Pointer\Documents\Visual Studio 2012\Projects\ORJ Projeler\K.R.M - Server Status\K.R.M - Server Status\bin\Debug\K.R.M - Server Status.pdb
+C:\Users\Pointer\Documents\Visual Studio 2012\Projects\ORJ Projeler\K.R.M - Server Status\K.R.M - Server Status\bin\Debug\K.R.M - Server Status.xml
+C:\Users\Pointer\Documents\Visual Studio 2012\Projects\ORJ Projeler\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M___Server_Status.Form1.resources
+C:\Users\Pointer\Documents\Visual Studio 2012\Projects\ORJ Projeler\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M___Server_Status.Form2.resources
+C:\Users\Pointer\Documents\Visual Studio 2012\Projects\ORJ Projeler\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M___Server_Status.Resources.resources
+C:\Users\Pointer\Documents\Visual Studio 2012\Projects\ORJ Projeler\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M - Server Status.vbproj.GenerateResource.Cache
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\ORJ\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M - Server Status.xml
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\ORJ\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M - Server Status.pdb
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\ORJ\K.R.M - Server Status\K.R.M - Server Status\bin\Debug\K.R.M - Server Status.exe
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\ORJ\K.R.M - Server Status\K.R.M - Server Status\bin\Debug\K.R.M - Server Status.pdb
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\ORJ\K.R.M - Server Status\K.R.M - Server Status\bin\Debug\K.R.M - Server Status.xml
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\ORJ\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M___Server_Status.Form1.resources
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\ORJ\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M___Server_Status.Form2.resources
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\ORJ\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M___Server_Status.Resources.resources
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\ORJ\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M - Server Status.vbproj.GenerateResource.Cache
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\ORJ\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M - Server Status.exe
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\ORJ\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M - Server Status.exe
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\ORJ\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M - Server Status.xml
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\ORJ\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M - Server Status.pdb
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\ORJ\K.R.M - Server Status\K.R.M - Server Status\bin\Debug\K.R.M - Server Status.exe
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\ORJ\K.R.M - Server Status\K.R.M - Server Status\bin\Debug\K.R.M - Server Status.pdb
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\ORJ\K.R.M - Server Status\K.R.M - Server Status\bin\Debug\K.R.M - Server Status.xml
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\ORJ\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M - Server Status.vbprojResolveAssemblyReference.cache
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\ORJ\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M___Server_Status.Form1.resources
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\ORJ\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M___Server_Status.Form2.resources
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\ORJ\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M___Server_Status.Resources.resources
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\ORJ\K.R.M - Server Status\K.R.M - Server Status\obj\Debug\K.R.M - Server Status.vbproj.GenerateResource.Cache
